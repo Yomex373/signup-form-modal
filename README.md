@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](images\mobile- Sign Form Modal -.png)
-![](images\Desktop- Sign Form Modal.png)
+![](./images/mobile-Sign-Form-Modal-.png)
+![](./images/Desktop-Sign-Form-Modal.png)
 
 
 ### Links
@@ -44,11 +44,11 @@ Users should be able to:
 
 ### What I learned
 
-setTimeOut
-element.style
-FormData
-Event.preventDefault
-Disable attribute
+-setTimeOut
+-element.style
+-FormData
+-Event.preventDefault
+-Disable attribute
 
 ### Continued development
 
